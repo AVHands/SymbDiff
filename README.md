@@ -1,0 +1,3 @@
+//Main can be changed to accept from user via a buffered reader, but as is, it accepts functions to be differentiated
+//on line 5, with String[] tokens =...
+//IT WONT work if MathOperation.java and Parser.java are not in the same file/directory as Main.java.
